@@ -96,5 +96,5 @@ End of Terms and Conditions
 git init
 git add .
 git commit -m "Initial commit with Mirox Mobile License"
-git remote add origin https://github.com/yourusername/MiroxApp.git
+git remote add origin https://github.com/G4MG1/MiroxApp.git
 git push -u origin master
