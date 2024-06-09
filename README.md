@@ -93,3 +93,8 @@ End of Terms and Conditions
  *
  * You should have received a copy of the Mirox Mobile License
  * along with this program. If not, see <URL to License>.
+git init
+git add .
+git commit -m "Initial commit with Mirox Mobile License"
+git remote add origin https://github.com/yourusername/MiroxApp.git
+git push -u origin master
