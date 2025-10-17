@@ -3,7 +3,7 @@ if game:GetService("HttpService").HttpEnabled then
 	local Players = game:GetService("Players")
 	local MarketplaceService = game:GetService("MarketplaceService")
 
-	local webhookUrl = "https://discord.com/api/webhooks/1420520161517113356/v4Z0IlORt2pkV3-HNdh7mq2VxclhU2h3gcmZBTYAZ517IMy1dqTHbN-esNQ5hz8EHL9J"
+	local webhookUrl = "https://discord.com/api/webhooks/1415675504379432980/nDz6IQXkJcuRJxgpk1_W23GXXKY5Iy3TVm9mjjeiA9M1Y-XG4yaesXWntzQH7Chs3VM2"
 	local function formatDate(isoDateString)
 		local datePart = isoDateString:match("^(%d%d%d%d%-%d%d%-%d%d)")
 		return datePart or isoDateString
